@@ -1,4 +1,4 @@
-Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Total_CP_Multiplier,Est_CP_Before,Avg_CP_Multiplier_After_Evo,Est_CP_After
+Name,Type1,Type2,HP,Attack,Defense,SpAtk,SpDef,Speed,Total_CP_Multiplier,Est_CP_Before,Avg_CP_Multiplier_After_Evo,Est_CP_After
 Abra,Psychic,,25,20,15,105,55,90,0.94,34.2216808470887,2.44,83.5009012668964
 Bellsprout,Grass,Poison,50,75,35,70,30,40,0.94,277.227299792066,1.72,476.830955642354
 Bulbasaur,Grass,Poison,45,49,49,65,65,45,0.94,203.308756520146,1.93,392.385900083882
